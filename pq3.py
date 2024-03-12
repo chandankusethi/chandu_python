@@ -1,10 +1,10 @@
-# import keyword
-# print(keyword.kwlist)
+import keyword
+print(keyword.kwlist)
 
-# print(bin(15))
-# print(bin(0o135))
-# print(oct(34))
-# print(bin(0o45))
+print(bin(15))
+print(bin(0o135))
+print(oct(34))
+print(bin(0o45))
 
 a=True
 print(type(a))
